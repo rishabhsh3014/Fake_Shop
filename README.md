@@ -16,4 +16,7 @@ Screenshots:
 ![Search Bar](/product_review_website/screenshots/searchbar.png)
 ![Product Review Page](/product_review_website/screenshots/productPage.png)
 
-Demo:
+Demo video:
+https://user-images.githubusercontent.com/87780844/165385473-7ddf5faa-68f5-43ed-ac37-9bdd762b0fef.mp4
+
+
