@@ -12,9 +12,9 @@ This Product Review Website have following components:
 [For the Component library ChakraUI is used](https://chakra-ui.com/)
 
 Screenshots:
-![Home Page](/Fake_Shop/screenshots/Home.png)
-![Search Bar](/product_review_website/screenshots/searchbar.png)
-![Product Review Page](/product_review_website/screenshots/productPage.png)
+![Home Page](/screenshots/Home.png)
+![Search Bar](/screenshots/searchbar.png)
+![Product Review Page](/screenshots/productPage.png)
 
 Demo video:
 https://user-images.githubusercontent.com/87780844/165385473-7ddf5faa-68f5-43ed-ac37-9bdd762b0fef.mp4
